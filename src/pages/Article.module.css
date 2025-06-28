@@ -1,0 +1,33 @@
+.container {
+    padding: 2rem;
+    color: #00ff9d;
+    font-family: 'Orbitron', monospace;
+}
+
+/* Mobile: reduce padding */
+@media (max-width: 767px) {
+    .container {
+        padding: 1rem;
+    }
+}
+
+.title {
+    /* Optional styling for title */
+}
+
+.date {
+    color: #ff0033;
+    margin-bottom: 1rem;
+}
+
+.image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+}
+
+.description {
+    margin-bottom: 1.5rem;
+}
