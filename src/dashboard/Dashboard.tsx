@@ -3,7 +3,6 @@ import { useEffect, useState } from 'react';
 import Home from '../pages/Home';
 import Blog from '../pages/Blog';
 import Article from '../pages/Article';
-import { Eye } from 'lucide-react';
 import styles from './Dashboard.module.css';
 
 export const Dashboard = () => {
