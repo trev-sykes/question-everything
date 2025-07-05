@@ -1,43 +1,81 @@
 .home {
-    background: #000;
+    background: radial-gradient(ellipse at top, #0a0a0a 0%, #000 100%);
     color: #00ff9d;
     font-family: 'Orbitron', monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
 }
 
+/* Hero Section */
 .hero {
-    padding: 4rem 2rem;
+    padding: 6rem 2rem 4rem;
     text-align: center;
 }
 
 .heading {
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: #00ff9d;
-    text-shadow: 0 0 10px #00ff9d;
+    text-shadow: 0 0 12px #00ff9d88;
 }
 
 .subheading {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     color: #aaffdd;
-    max-width: 700px;
-    margin: 1rem auto;
+    max-width: 720px;
+    margin: 1.5rem auto 0;
 }
 
-.topics {
+/* Featured Blogs */
+.featured {
+    padding: 3rem 2rem;
+    text-align: center;
+}
+
+.featured h2 {
+    font-size: 1.8rem;
+    margin-bottom: 2rem;
+    text-shadow: 0 0 6px #00ff9d88;
+}
+
+.blogGrid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 2rem;
-    padding: 2rem;
 }
 
+/* Call to Action */
 .cta {
     text-align: center;
-    padding: 3rem 2rem;
+    padding: 4rem 2rem;
+    background: linear-gradient(to bottom, transparent, rgba(0, 255, 157, 0.05));
+}
+
+.cta h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #00ff9d;
+    text-shadow: 0 0 10px #00ff9d55;
+}
+
+.cta p {
+    margin-bottom: 1.5rem;
+    color: #aaffdd;
 }
 
 .ctaLink {
-    color: #ff0033;
-    font-size: 1rem;
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background: #00ff9d;
+    color: #000;
+    font-weight: bold;
+    border-radius: 6px;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.08em;
     text-decoration: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.ctaLink:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 18px #00ff9d;
 }

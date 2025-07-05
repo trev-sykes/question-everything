@@ -14,14 +14,24 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+
     padding: 1rem 2rem;
     border-bottom: 1px solid #00ff9d;
     box-shadow: 0 4px 12px rgba(0, 255, 157, 0.2);
-    backdrop-filter: blur(8px);
-    background: rgba(0, 0, 0, 0.7);
+
+    background: rgba(0, 0, 0, 0.6);
+    /* Slightly more transparent for depth */
+    backdrop-filter: blur(12px);
+    /* Softer blur for glassy effect */
+    -webkit-backdrop-filter: blur(12px);
+    /* Safari support */
+
     position: sticky;
     top: 0;
     z-index: 999;
+
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+    will-change: transform;
 }
 
 /* Logo */

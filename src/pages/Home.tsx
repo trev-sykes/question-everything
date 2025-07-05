@@ -1,50 +1,49 @@
 import React from 'react';
+import { motion } from 'framer-motion';
 import styles from './Home.module.css';
-// import { BlogCard } from '../components/blogCard/BlogCard';
+import { BlogCard } from '../components/blogCard/BlogCard';
+import { blogData } from '../blogData/BlogData';
 
 const Home: React.FC = () => {
     return (
         <main className={styles.home}>
             {/* Hero Section */}
             <section className={styles.hero}>
-                <h1 className={styles.heading}>Question Everything</h1>
-                <p className={styles.subheading}>
+                <motion.h1
+                    className={styles.heading}
+                    initial={{ opacity: 0, y: 30 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.7 }}
+                >
+                    Question Everything
+                </motion.h1>
+                <motion.p
+                    className={styles.subheading}
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: 0.3, duration: 0.6 }}
+                >
                     Welcome to <strong>Question Everything</strong> — a portal into the unknown. From conspiracies and AI to lost civilizations and alternative histories, this blog is for those who dare to think differently.
-                </p>
+                </motion.p>
             </section>
 
-            {/* Featured Topics (Blog Cards) */}
-            {/* <section className={styles.topics}>
-                <BlogCard
-                    title="Conspiracies Unveiled"
-                    description="From the moon landing to modern surveillance—explore the rabbit holes with open eyes."
-                    slug="conspiracy"
-                    date="Truth or Fiction?"
-                    imageUrl="/images/conspiracy.jpg"
-                />
-                <BlogCard
-                    title="AI & Frontend Futures"
-                    description="Dive into artificial intelligence, frontend experiments, and future tech shaping our world."
-                    slug="tech"
-                    date="Tech & Code"
-                    imageUrl="/images/ai-coding.jpg"
-                />
-                <BlogCard
-                    title="Ancient Technology"
-                    description="Were ancient civilizations more advanced than we think? Decode myths, legends, and megaliths."
-                    slug="ancient-tech"
-                    date="Lost Knowledge"
-                    imageUrl="/images/ancient-tech.jpg"
-                />
-            </section> */}
+            {/* Featured Blogs */}
+            <section className={styles.featured}>
+                <h2>Latest Dispatches</h2>
+                <div className={styles.blogGrid}>
+                    {blogData.slice(0, 3).map((blog) => (
+                        <BlogCard key={blog.slug} {...blog} />
+                    ))}
+                </div>
+            </section>
 
             {/* Call to Action */}
             <section className={styles.cta}>
-                <h2>Stay Woke, Stay Curious</h2>
-                <p>Subscribe to get updates on new investigations, code drops, and hidden knowledge.</p>
-                <a href="/subscribe" className={styles.ctaLink}>
-                    Join the Watchers
-                </a>
+                <h2>👁️ Join the Watchers</h2>
+                <p>Unlock hidden drops, code, and ancient truths. No spam — only signal.</p>
+                {/* <a href="/subscribe" className={styles.ctaLink}>
+                    Enter the Gate
+                </a> */}
             </section>
         </main>
     );
