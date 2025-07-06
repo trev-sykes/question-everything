@@ -7,6 +7,7 @@ import Home from '../pages/Home';
 import Blog from '../pages/Blog';
 import Article from '../pages/Article';
 import styles from './Dashboard.module.css';
+import { ScrollToTop } from '../hook/ScrollToTop';
 
 const PageWrapper = ({ children }: any) => (
     <motion.div
@@ -76,6 +77,7 @@ export const Footer = () => {
 
 export const Dashboard = () => {
     const location = useLocation();
+    ScrollToTop();
 
     return (
         <div className={styles.container}>
