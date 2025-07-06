@@ -52,7 +52,7 @@ export const Dashboard = () => {
                     <Routes location={location} key={location.pathname}>
                         <Route path="/" element={<PageWrapper><Home /></PageWrapper>} />
                         <Route path="/blogs" element={<PageWrapper><Blog /></PageWrapper>} />
-                        <Route path="/:blogName" element={<PageWrapper><Article /></PageWrapper>} />
+                        <Route path="/blogs/:blogName" element={<PageWrapper><Article /></PageWrapper>} />
                     </Routes>
                 </AnimatePresence>
             </main>

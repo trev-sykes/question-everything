@@ -12,7 +12,7 @@ interface BlogCardProps {
 
 export const BlogCard = ({ title, description, slug, date, imageUrl }: BlogCardProps) => {
     return (
-        <Link to={`/${slug}`} className={styles.card}>
+        <Link to={`/blogs/${slug}`} className={styles.card}>
             <div className={styles.imageWrapper}>
                 <img src={imageUrl} alt={title} className={styles.image} />
                 <div className={styles.overlay} />

@@ -4,6 +4,7 @@ import { FullBlog } from "../components/fullBlog/FullBlog";
 import styles from "./Article.module.css";
 import { motion, type Variants } from "framer-motion";
 import { useState } from "react";
+import GiscusComments from "../components/giscus/Giscus";
 
 const containerVariants: Variants = {
     hidden: { opacity: 0, y: 20 },
@@ -52,7 +53,14 @@ const Article = () => {
             </motion.p>
 
             {/* Only render FullBlog after article animation completes */}
-            {articleAnimationDone && <FullBlog content={blog.content} />}
+            {articleAnimationDone &&
+                (
+                    <>
+                        <FullBlog content={blog.content} />
+                        <GiscusComments />
+                    </>
+                )}
+
         </motion.div>
     );
 };
