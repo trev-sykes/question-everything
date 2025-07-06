@@ -1,25 +1,22 @@
-// components/GiscusComments.tsx
 import Giscus from '@giscus/react';
-import React from 'react';
 
-const GiscusComments: React.FC = () => {
-    return (
-        <div style={{ marginTop: '3rem' }}>
-            <Giscus
-                repo="yourusername/yourrepo" // Replace with your GitHub repo
-                repoId="YOUR_REPO_ID" // From giscus.app
-                category="Blog Comments" // Must match exactly
-                categoryId="YOUR_CATEGORY_ID" // From giscus.app
-                mapping="pathname"
-                reactionsEnabled="1"
-                emitMetadata="0"
-                inputPosition="bottom"
-                theme="light"
-                lang="en"
-                loading="lazy"
-            />
-        </div>
-    );
-};
+const GiscusComments: React.FC = () => (
+    <div style={{ marginTop: '3rem' }}>
+        <Giscus
+            repo="trev-sykes/question-everything"
+            repoId="R_kgDOPDkU2A"
+            category="Announcements"
+            categoryId="DIC_kwDOPDkU2M4CskHK"
+            mapping="pathname"
+            strict="0"
+            reactionsEnabled="1"
+            emitMetadata="1"
+            inputPosition="top"
+            theme="dark_protanopia"
+            lang="en"
+            loading="lazy"
+        />
+    </div>
+);
 
 export default GiscusComments;
