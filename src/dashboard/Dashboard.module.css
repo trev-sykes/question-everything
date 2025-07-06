@@ -36,14 +36,10 @@
 
 /* Logo */
 .logo {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-weight: bold;
-    font-size: 1.5rem;
-    letter-spacing: 0.2em;
-    color: #00ff9d;
-    text-shadow: 0 0 5px #00ff9d;
+    width: 5rem;
+    height: 5rem;
+    margin: 0;
+    padding: 0;
 }
 
 /* Nav Links */
@@ -94,20 +90,80 @@
     box-sizing: border-box;
 }
 
-/* Secret mode */
-.secret {
-    position: fixed;
-    bottom: 1rem;
-    right: 1rem;
-    background: rgba(0, 0, 0, 0.85);
+.footer {
+    padding: 2rem;
+    background: radial-gradient(ellipse at bottom, #0a0a0a 0%, #000 100%);
+    color: #00ff9d;
+    font-family: 'Orbitron', monospace;
+    text-align: center;
+    border-top: 1px solid #00ff9d22;
+    margin-top: 4rem;
+}
+
+.top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.logo {
+    width: 3rem;
+    height: 3rem;
+}
+
+.tagline {
+    font-size: 0.9rem;
+    color: #aaffdd;
+}
+
+.links {
+    margin: 1.5rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.link {
+    color: #00ff9d;
+    text-decoration: none;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: color 0.3s ease;
+}
+
+.link:hover {
     color: #ff0033;
-    padding: 0.75rem 1.25rem;
-    border: 1px solid #ff0033;
-    border-radius: 8px;
-    font-size: 0.8rem;
-    z-index: 1000;
-    box-shadow: 0 0 12px #ff0033;
-    animation: pulse 1s infinite alternate;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin: 1rem 0;
+}
+
+.socials a {
+    color: #00ff9d;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.portfolioLink {
+    width: 20px;
+    height: 20px;
+}
+
+.socials a:hover {
+    transform: translateY(-3px);
+    color: #ff0033;
+}
+
+.bottom {
+    font-size: 0.75rem;
+    color: #777;
+    margin-top: 1.5rem;
 }
 
 /* Pulse effect */

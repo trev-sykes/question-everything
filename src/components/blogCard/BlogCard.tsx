@@ -17,7 +17,7 @@ export const BlogCard = ({ title, description, slug, date, imageUrl }: BlogCardP
                 <img src={imageUrl} alt={title} className={styles.image} />
                 <div className={styles.overlay} />
                 <div className={styles.header}>
-                    <h2 className={styles.title}>{title}</h2>
+                    <p className={styles.title}>{title}</p>
                     <span className={styles.date}>{date}</span>
                 </div>
             </div>

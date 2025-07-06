@@ -31,19 +31,18 @@ const Home: React.FC = () => {
             <section className={styles.featured}>
                 <h2>Latest Dispatches</h2>
                 <div className={styles.blogGrid}>
-                    {blogData.slice(0, 3).map((blog) => (
+                    {[...blogData].reverse().slice(0, 3).map((blog) => (
                         <BlogCard key={blog.slug} {...blog} />
                     ))}
+
                 </div>
             </section>
 
             {/* Call to Action */}
             <section className={styles.cta}>
-                <h2>👁️ Join the Watchers</h2>
-                <p>Unlock hidden drops, code, and ancient truths. No spam — only signal.</p>
-                {/* <a href="/subscribe" className={styles.ctaLink}>
-                    Enter the Gate
-                </a> */}
+                <h2>👁️ The Truth Awaits</h2>
+                <p>"Those who do not question are doomed to obey." <br />Welcome, seeker. You've only scratched the surface.</p>
+
             </section>
         </main>
     );

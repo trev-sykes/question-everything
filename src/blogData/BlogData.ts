@@ -17,7 +17,7 @@ export const blogData: BlogEntry[] = [
         title: "Neon Cities & Neural Nets",
         description: "Exploring the overlap between techno-urbanism and artificial intelligence in 2084.",
         slug: "neon-cities-ai",
-        date: "June 26, 2025",
+        date: "June 20, 2025",
         imageUrl: "https://images.unsplash.com/photo-1522199710521-72d69614c702?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
         content: [
             {
@@ -64,7 +64,7 @@ export const blogData: BlogEntry[] = [
         title: "Whistleblowers, Wreckage & the UAP Files",
         description: "Peeling back the classified veil on UAPs, non-human technology, and high-stakes secrecy in the post-Disclosure age.",
         slug: "uap-whistleblower-revelations",
-        date: "June 29, 2025",
+        date: "June 25, 2025",
         imageUrl: "https://images.unsplash.com/photo-1743412059152-d577187040c1?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHNjaWVudGlzdCUyMGFsaWVufGVufDB8fDB8fHww",
         content: [
             {
@@ -127,7 +127,7 @@ export const blogData: BlogEntry[] = [
         title: "CERN: Gateway to the Unknown or Pandora’s Box?",
         description: "Exploring the shadowy experiments, secret agendas, and cosmic risks lurking beneath the world’s largest particle accelerator.",
         slug: "cern-gateway-to-unknown",
-        date: "June 29, 2025",
+        date: "June 27, 2025",
         imageUrl: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
         content: [
             {
@@ -284,7 +284,81 @@ export const blogData: BlogEntry[] = [
                 content: "Ultimately, the evolution of AI acts as a mirror reflecting our greatest hopes and fears. It challenges us to rethink intelligence, ethics, and the future we want to create — not for machines, but for ourselves.",
             }
         ]
+    },
+    {
+        title: "Tartaria: The Empire Erased From History?",
+        description: "Was there a global civilization wiped from our collective memory? Uncover the architectural anomalies, mud flood theories, and historical contradictions behind the lost empire of Tartaria.",
+        slug: "tartaria-alternative-history",
+        date: "July 6, 2025",
+        imageUrl: "https://plus.unsplash.com/premium_photo-1676747209644-ec89dbd9d590?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YW5jaWVudCUyMGNpdHl8ZW58MHx8MHx8fDA%3D",
+        content: [
+            {
+                type: "heading",
+                content: "The Civilization That Wasn't Supposed to Exist"
+            },
+            {
+                type: "paragraph",
+                content: "Scattered throughout old world maps and 18th-century encyclopedias is the name 'Tartaria' — once labeled as a vast empire stretching across Eurasia. Official history dismisses it as a catch-all term for unknown territories. But what if it wasn’t?"
+            },
+            {
+                type: "quote",
+                content: `"History is written by the victors. What if it was also erased by them?"`,
+            },
+            {
+                type: "paragraph",
+                content: "Alternative researchers argue Tartaria was a highly advanced civilization — technologically sophisticated, spiritually developed, and globally influential. Its sudden disappearance? A deliberate cover-up by emerging world powers."
+            },
+            {
+                type: "image",
+                content: "https://plus.unsplash.com/premium_photo-1694475091665-3660e20997eb?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YW5jaWVudCUyMGJ1aWxkaW5nc3xlbnwwfHwwfHx8MA%3D%3D",
+                alt: "Grand, anachronistic architecture hidden in plain sight"
+            },
+            {
+                type: "heading",
+                content: "The Mud Flood Theory"
+            },
+            {
+                type: "paragraph",
+                content: "Proponents of the Tartaria theory often cite 'mud floods' — unexplained layers of earth seemingly burying buildings worldwide. From Paris to St. Petersburg to parts of the American Midwest, entire lower levels of architecture appear submerged beneath soil without geological cause."
+            },
+            {
+                type: "paragraph",
+                content: "The theory goes: a cataclysmic event in the 1800s — whether natural or engineered — wiped out Tartaria, and history was rewritten by colonial empires. Surviving structures were repurposed and labeled with false dates to fit the new narrative."
+            },
+            {
+                type: "image",
+                content: "https://plus.unsplash.com/premium_photo-1664205028390-a5a6992e0f49?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fG11ZCUyMG9uJTIwYnVpbGRpbmd8ZW58MHx8MHx8fDA%3D",
+                alt: "Building with buried first floor, showcasing mud flood evidence"
+            },
+            {
+                type: "heading",
+                content: "Architecture That Shouldn't Exist"
+            },
+            {
+                type: "paragraph",
+                content: "Look closely at World's Fairs structures from the 1800s — impossibly ornate, colossal, and allegedly built in just months with horse-drawn wagons and hand tools. Critics argue these weren’t built from scratch, but inherited from a forgotten empire."
+            },
+            {
+                type: "quote",
+                content: `"How do you build Rome in a summer — and tear it down the same year?"`,
+            },
+            {
+                type: "paragraph",
+                content: "Terms like 'repurposed antiquitech' and 'inherited architecture' have emerged, challenging mainstream narratives about our past. Were we really the first advanced civilization to span continents?"
+            },
+            {
+                type: "heading",
+                content: "Why Erase Tartaria?"
+            },
+            {
+                type: "paragraph",
+                content: "The motive? Control. A unified, self-sufficient global culture doesn’t fit neatly into colonialist or capitalist frameworks. By erasing Tartaria, elites allegedly created the illusion of national fragmentation, technological scarcity, and historical linearity."
+            },
+            {
+                type: "paragraph",
+                content: "Whether myth, misinterpretation, or memory-holing of the grandest scale — Tartaria continues to inspire those who believe the past isn’t dead. It’s hidden."
+            }
+        ]
     }
-
 
 ];
