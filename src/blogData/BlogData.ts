@@ -426,6 +426,107 @@ export const blogData: BlogEntry[] = [
                 content: "Stay curious, keep questioning, and remember — reality may be stranger than fiction."
             }
         ]
+    },
+
+    {
+        title: "Project Looking Glass: Time Travel Technology or Government Psy-Op?",
+        description: "Diving deep into declassified documents, whistleblower testimonies, and the alleged secret program that claims to peer into future timelines.",
+        slug: "project-looking-glass-time-travel",
+        date: "August 3, 2025",
+        imageUrl: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+        content: [
+            {
+                type: "heading",
+                content: "The Secret Program Hidden in Plain Sight"
+            },
+            {
+                type: "paragraph",
+                content: "Buried within decades of classified military documents lies reference to something called 'Project Looking Glass' — allegedly a top-secret program designed to glimpse possible future timelines. While mainstream sources dismiss it as science fiction, whistleblowers and declassified files suggest otherwise."
+            },
+            {
+                type: "quote",
+                content: `"The future isn't fixed — it's a probability wave that can be observed and influenced." — Alleged Project Looking Glass scientist`
+            },
+            {
+                type: "paragraph",
+                content: "The technology supposedly involves advanced quantum computing married with consciousness research, creating a system capable of modeling future probability streams with startling accuracy. But is this breakthrough science or elaborate disinformation?"
+            },
+            {
+                type: "image",
+                content: "https://plus.unsplash.com/premium_photo-1689801528526-3cf45eb30172?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cXVhbnR1bSUyMGNvbXB1dGVyfGVufDB8fDB8fHww",
+                alt: "Futuristic quantum computer interface displaying timeline probabilities"
+            },
+            {
+                type: "heading",
+                content: "Whistleblowers Break Their Silence"
+            },
+            {
+                type: "paragraph",
+                content: "In 2019, former Navy intelligence officer Bill Wood claimed to have worked with Looking Glass technology, describing sessions where operators could observe potential future events as probability cascades. According to Wood, the system revealed that certain timeline convergences were inevitable — regardless of intervention attempts."
+            },
+            {
+                type: "paragraph",
+                content: "More disturbing are claims that the technology showed a 'timeline split' occurring in the 2020s — a moment where humanity's future diverges dramatically based on collective consciousness and technological choices. Some insiders suggest this is why recent years have felt increasingly surreal and polarized."
+            },
+            {
+                type: "image",
+                content: "https://images.unsplash.com/photo-1551808525-51a94da548ce?q=80&w=2128&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                alt: "Classified documents with heavy redactions and timestamps"
+            },
+            {
+                type: "heading",
+                content: "The Consciousness Connection"
+            },
+            {
+                type: "paragraph",
+                content: "What makes Project Looking Glass particularly intriguing is its alleged integration of human consciousness with quantum technology. Reports suggest the system requires psychically sensitive operators who can interface with quantum probability fields — essentially 'remote viewing' potential futures."
+            },
+            {
+                type: "quote",
+                content: `"Time isn't linear when you're dealing with consciousness at the quantum level. Past, present, and future become fluid states."`
+            },
+            {
+                type: "paragraph",
+                content: "This merger of metaphysics and hard science has led some researchers to theorize that Looking Glass represents humanity's first successful attempt at technological telepathy — using machines to amplify natural psychic abilities."
+            },
+            {
+                type: "image",
+                content: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                alt: "Neural network visualization merged with cosmic imagery"
+            },
+            {
+                type: "heading",
+                content: "Disinformation or Disclosure?"
+            },
+            {
+                type: "paragraph",
+                content: "Skeptics argue Project Looking Glass is elaborate disinformation — a way to muddy the waters around legitimate classified programs or manipulate public perception of government capabilities. The timing of whistleblower revelations often coincides with geopolitical tensions, raising questions about motive."
+            },
+            {
+                type: "paragraph",
+                content: "However, declassified documents from the DIA and NSA contain redacted references to 'temporal analysis programs' and 'probability modeling systems' that align suspiciously well with Looking Glass descriptions. Either the government is maintaining an incredibly detailed false narrative, or something extraordinary is being hidden."
+            },
+            {
+                type: "heading",
+                content: "The 2025 Convergence Point"
+            },
+            {
+                type: "paragraph",
+                content: "Perhaps most unsettling are claims that Looking Glass identified 2025 as a critical convergence point — a year where multiple timeline probabilities collapse into fewer possibilities. Alleged operators describe seeing technological breakthroughs, social upheavals, and disclosure events all clustering around this timeframe."
+            },
+            {
+                type: "quote",
+                content: `"We're living through the timeline split in real-time. Every choice matters more than ever before."`
+            },
+            {
+                type: "paragraph",
+                content: "Whether you believe in temporal viewing technology or see it as psychological warfare, Project Looking Glass raises profound questions about the nature of time, consciousness, and the hidden technologies shaping our world."
+            },
+            {
+                type: "paragraph",
+                content: "As always, the truth may be stranger than we dare imagine — and closer than we think."
+            }
+        ]
     }
 
 ];
