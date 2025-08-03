@@ -70,7 +70,7 @@ export const Footer = () => {
                 </a>
             </div>
 
-            <p className={styles.bottom}>© 2025 Trevor Sykes. Built with ❤️ React + Vite</p>
+            <p className={styles.bottom}>© 2025 TS</p>
         </footer>
     );
 };
