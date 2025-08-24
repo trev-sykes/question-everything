@@ -729,7 +729,7 @@ export const blogData: BlogEntry[] = [
         description: "From ancient Jerusalem to Ethiopian churches and Nazi expeditions — tracking the most dangerous artifact in human history through millennia of cover-ups.",
         slug: "ark-of-covenant-conspiracy",
         date: "August 9, 2025",
-        imageUrl: "https://plus.unsplash.com/premium_photo-1661962355663-2a435ccf844d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QXJrJTIwb2YlMjB0aGUlMjBDb3ZlbmFudHxlbnwwfHwwfHx8MA%3D%3D",
+        imageUrl: "https://free.messianicbible.com/wp-content/uploads/2015/02/1920-The-transfer-of-the-Ark-of-the-Covenant-by-the-singing-and-dancing-David-anonymous.jpg",
         content: [
             {
                 type: "heading",
@@ -749,7 +749,7 @@ export const blogData: BlogEntry[] = [
             },
             {
                 type: "image",
-                content: "https://images.unsplash.com/photo-1680994330269-993e90deeca3?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z29sZGVuJTIwY2hlc3R8ZW58MHx8MHx8fDA%3D",
+                content: "https://media.istockphoto.com/id/1126694541/photo/ancient-wooden-box-with-glowing-light.jpg?s=612x612&w=0&k=20&c=raXmmrRtdxZ9iUv6l0nkfzDtyHEqeOYbi5aVQv-M5ME=",
                 alt: "Ancient golden chest radiating mysterious energy"
             },
             {
@@ -874,7 +874,7 @@ export const blogData: BlogEntry[] = [
         description: "Is there a hidden world beneath our feet? Exploring ancient myths, classified expeditions, and the conspiracy of a hollow Earth.",
         slug: "hollow-earth-conspiracy",
         date: "August 17, 2025",
-        imageUrl: "https://plus.unsplash.com/premium_photo-1676422290766-8b50dcdb43b9?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGhvbGxvdyUyMGVhcnRofGVufDB8fDB8fHww",
+        imageUrl: "https://library.osu.edu/site/archives/files/2017/03/crystal-links-2.jpg",
         content: [
             {
                 type: "heading",
@@ -894,7 +894,7 @@ export const blogData: BlogEntry[] = [
             },
             {
                 type: "image",
-                content: "https://plus.unsplash.com/premium_photo-1700305081048-b806c8808c91?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNhdmUlMjB3aXRoJTIwZ2xvd2luZyUyMGNyeXN0YWxzfGVufDB8fDB8fHww",
+                content: "https://cdn.pixabay.com/photo/2025/01/28/23/54/glowing-crystals-9366731_1280.png",
                 alt: "Subterranean cavern with glowing crystals"
             },
             {
@@ -915,7 +915,7 @@ export const blogData: BlogEntry[] = [
             },
             {
                 type: "image",
-                content: "https://images.unsplash.com/photo-1552554956-c0cab3a7621f?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNhdmUlMjB3aXRoJTIwZ2xvd2luZyUyMGNyeXN0YWxzfGVufDB8fDB8fHww",
+                content: "https://wallpapers.com/images/hd/antarctica-glacier-ice-cave-5qmoylnkiyn3139n.jpg",
                 alt: "Antarctic ice cave with eerie blue glow"
             },
             {
@@ -944,7 +944,7 @@ export const blogData: BlogEntry[] = [
             },
             {
                 type: "image",
-                content: "https://plus.unsplash.com/premium_photo-1682124905227-cec770a2ef4a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHN1YnRlcnJhbmlhbiUyMGNpdHl8ZW58MHx8MHx8fDA%3D",
+                content: "https://images.nightcafe.studio/jobs/hagKdt8jbTDJJkNie6jU/hagKdt8jbTDJJkNie6jU--1--fo87x.jpg",
                 alt: "Ancient subterranean city illuminated by bioluminescent plants"
             },
             {
@@ -998,7 +998,7 @@ export const blogData: BlogEntry[] = [
         "description": "Uncovering evidence of alien influence in ancient texts, megalithic structures, and suppressed archaeological discoveries that challenge mainstream history.",
         "slug": "ancient-astronauts-conspiracy",
         "date": "August 21, 2025",
-        "imageUrl": "https://images.unsplash.com/photo-1576157873436-2635b5f6c1d8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGFsaWVuJTIwYXN0cm9uYXV0c3xlbnwwfHwwfHx8MA%3D%3D",
+        "imageUrl": "https://i.etsystatic.com/56588812/r/il/768fc6/6514413132/il_fullxfull.6514413132_g6mo.jpg",
         "content": [
             {
                 "type": "heading",
@@ -1018,7 +1018,7 @@ export const blogData: BlogEntry[] = [
             },
             {
                 "type": "image",
-                "content": "https://images.unsplash.com/photo-1695453954887-cd35c0c8a66e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2F2ZSUyMGNhcnZpbmdzJTIwYWxpZW5zfGVufDB8fDB8fHww",
+                "content": "https://previews.123rf.com/images/gorkairaundegi/gorkairaundegi2306/gorkairaundegi230600395/207252105-ancient-cave-paintings-of-people-in-the-cave-the-cave-paintings-are-painted-on-the-rock.jpg",
                 "alt": "Ancient cave painting depicting humanoid figures with star-like objects"
             },
             {
@@ -1035,7 +1035,7 @@ export const blogData: BlogEntry[] = [
             },
             {
                 "type": "image",
-                "content": "https://images.unsplash.com/photo-1596539363080-b678f4c02d6e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3VtZXJpYW4lMjB0YWJsZXRzfGVufDB8fDB8fHww",
+                "content": "https://images.newscientist.com/wp-content/uploads/2021/09/15185011/PRI_199949243.jpg",
                 "alt": "Ancient Sumerian tablet with cuneiform inscriptions"
             },
             {
@@ -1056,7 +1056,7 @@ export const blogData: BlogEntry[] = [
             },
             {
                 "type": "image",
-                "content": "https://plus.unsplash.com/premium_photo-1713165737075-20aebf07a82f?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UGVydSVFMiU4MCU5OXMlMjBOYXpjYSUyMExpbmVzfGVufDB8fDB8fHww",
+                "content": "https://www.rjtravelagency.com/wp-content/uploads/2023/08/Pumapunku-10.jpg",
                 "alt": "Precisely cut stones at Puma Punku with mysterious carvings"
             },
             {
@@ -1073,7 +1073,7 @@ export const blogData: BlogEntry[] = [
             },
             {
                 "type": "image",
-                "content": "https://media.istockphoto.com/id/471204069/photo/astronaut-nasca-lines.webp?a=1&b=1&s=612x612&w=0&k=20&c=DNBL_i-DhED5m0JLHvZ_cwC8BIXG0wgV9bz2y68Kl7U=",
+                "content": "https://cdn.mos.cms.futurecdn.net/yZAhHhU2nrQshJMFpbEMtm.jpg",
                 "alt": "Aerial view of Nazca Lines depicting a humanoid figure"
             },
             {
@@ -1136,6 +1136,123 @@ export const blogData: BlogEntry[] = [
             {
                 "type": "paragraph",
                 "content": "As we push deeper into the cosmos with telescopes and probes, the answers may be closer than we think—or buried deeper than we dare dig. Until full disclosure, the ancient astronaut theory remains a tantalizing possibility, urging us to question everything about our place in the universe."
+            }
+        ]
+    },
+    {
+        "title": "The Antikythera Mechanism: Ancient Computer or Extraterrestrial Blueprint?",
+        "description": "Diving into the mystery of the Antikythera Mechanism — a 2,000-year-old device that defies history. Was it a Greek marvel, an alien gift, or a suppressed key to ancient technology?",
+        "slug": "antikythera-mechanism-conspiracy",
+        "date": "August 24, 2025",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!5PMJ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe51aef7b-a528-401e-b923-594d4547ea96_1536x1024.png",
+        "content": [
+            {
+                "type": "heading",
+                "content": "A Machine Out of Time"
+            },
+            {
+                "type": "paragraph",
+                "content": "In 1901, divers off the Greek island of Antikythera pulled a corroded bronze lump from a 2,000-year-old shipwreck. What they found was no ordinary relic: the Antikythera Mechanism, a complex device of interlocking gears, is often called the world’s first analog computer. Dated to around 100 BCE, it tracked celestial movements with eerie precision. But how did an ancient civilization build something this advanced — and why does it feel like history wants us to forget it?"
+            },
+            {
+                "type": "quote",
+                "content": "\"This isn’t just a machine. It’s a message from someone — or something — far beyond our understanding.\" — Independent researcher"
+            },
+            {
+                "type": "paragraph",
+                "content": "The mechanism’s intricacy rivals 18th-century clockwork, with differential gears not “rediscovered” until the Industrial Revolution. Its ability to predict solar and lunar eclipses, planetary positions, and even Olympic Games dates suggests knowledge that mainstream archaeology struggles to explain."
+            },
+            {
+                "type": "image",
+                "content": "https://www.pbs.org/wgbh/nova/media/images/ancient-computer-hero.width-800.jpg",
+                "alt": "Bronze gears of the Antikythera Mechanism glowing faintly"
+            },
+            {
+                "type": "heading",
+                "content": "Greek Genius or Alien Tech?"
+            },
+            {
+                "type": "paragraph",
+                "content": "Mainstream historians credit the Greeks, particularly Hipparchus, with crafting the mechanism. They argue it’s a pinnacle of Hellenistic engineering, blending astronomy and mathematics. But skeptics point to anomalies: the gears’ precision requires tools not known to exist in 100 BCE, and the device’s Babylonian astronomical data hints at knowledge transfer from older, possibly non-human, sources."
+            },
+            {
+                "type": "paragraph",
+                "content": "Ancient astronaut theorists propose a wilder idea: the mechanism could be a reverse-engineered extraterrestrial device. Its star-tracking capabilities align too closely with Sumerian and Egyptian star maps, which some claim describe alien visits. Could the Greeks have inherited or salvaged this tech from an older, otherworldly source?"
+            },
+            {
+                "type": "quote",
+                "content": "\"If humans built this, why did its knowledge vanish for 2,000 years? Something doesn’t add up.\" — Conspiracy theorist"
+            },
+            {
+                "type": "image",
+                "content": "https://newsukraine.rbc.ua/static/img/_/k/_kolazh_371949dc04f357bc947db32a2f7bdb04_1300x820_1__70352f79c13e51f7db0585ee02342e3b_1200x675.jpg",
+                "alt": "Ancient star map carved into stone with celestial alignments"
+            },
+            {
+                "type": "heading",
+                "content": "The Suppressed Knowledge"
+            },
+            {
+                "type": "paragraph",
+                "content": "X-ray imaging in the 2000s revealed inscriptions on the mechanism, including a user manual and references to constellations. But some researchers claim key fragments are missing, held in private collections or classified vaults. In 2015, a Greek archaeologist reported finding similar geared artifacts in a restricted dig site, only for the site to be abruptly sealed by government orders."
+            },
+            {
+                "type": "paragraph",
+                "content": "Whistleblowers suggest global institutions, including the Vatican and private collectors, have suppressed related discoveries to maintain historical narratives. Why? A device this advanced could rewrite human history, hinting at lost civilizations or extraterrestrial contact that challenges religious and scientific dogmas."
+            },
+            {
+                "type": "image",
+                "content": "https://smarthistory.org/wp-content/uploads/2022/06/121754001.jpg",
+                "alt": "Ancient tablet with cryptic inscriptions and gear-like symbols"
+            },
+            {
+                "type": "heading",
+                "content": "The Cosmic Connection"
+            },
+            {
+                "type": "paragraph",
+                "content": "The mechanism’s ability to track the Metonic cycle and Saros cycle — complex astronomical patterns — suggests its creators understood the cosmos at a level rivaling modern science. Some fringe researchers link it to the Antikythera Shipwreck’s cargo, which included statues and artifacts tied to the mystery cults of Mithras and Isis, groups rumored to guard esoteric knowledge from non-human sources."
+            },
+            {
+                "type": "paragraph",
+                "content": "Could the mechanism be a relic of a lost antediluvian civilization, preserved by secret societies? Or perhaps a tool left by extraterrestrial visitors to guide humanity’s understanding of the stars? Recent UAP disclosures fuel speculation that governments know more about ancient tech than they admit."
+            },
+            {
+                "type": "quote",
+                "content": "\"The stars were their map, and this machine was their compass.\" — Ancient astronaut proponent"
+            },
+            {
+                "type": "heading",
+                "content": "The Cover-Up Continues"
+            },
+            {
+                "type": "paragraph",
+                "content": "Why hasn’t the mechanism’s full significance been explored? Museums display it as a curiosity, but funding for deeper research is scarce. Leaked emails from a 2023 archaeological conference hint at pressure to downplay the device’s implications. Meanwhile, similar gear-like artifacts reported in Egypt and Peru have vanished from public record, with excavation sites quietly closed."
+            },
+            {
+                "type": "paragraph",
+                "content": "If the mechanism is a key to humanity’s cosmic past, its suppression could protect power structures — religious, governmental, or otherwise — that rely on controlling historical narratives. The truth might destabilize everything from theology to global economies."
+            },
+            {
+                "type": "image",
+                "content": "https://www.armyupress.army.mil/Portals/7/military-review/img/ENGLISHnd2017/AP_09051307870.jpg",
+                "alt": "Restricted archaeological site with military presence"
+            },
+            {
+                "type": "heading",
+                "content": "What Lies Beyond the Gears?"
+            },
+            {
+                "type": "paragraph",
+                "content": "The Antikythera Mechanism is more than a historical oddity — it’s a challenge to everything we think we know about our past. Whether a product of human genius, a gift from lost civilizations, or a blueprint from the stars, it demands we question the boundaries of history. Its gears still turn in our imaginations, pointing to a truth that might be too big for the world to handle."
+            },
+            {
+                "type": "quote",
+                "content": "\"Every gear tells a story, and someone’s desperate to keep it quiet.\" — Anonymous whistleblower"
+            },
+            {
+                "type": "paragraph",
+                "content": "As we probe deeper into our planet’s mysteries and the cosmos beyond, the Antikythera Mechanism stands as a reminder: the past is not what it seems, and the truth is rarely what we’re told. Keep digging, keep questioning, and maybe one day we’ll unlock the secrets of this ancient enigma."
             }
         ]
     }
