@@ -1255,5 +1255,105 @@ export const blogData: BlogEntry[] = [
                 "content": "As we probe deeper into our planet’s mysteries and the cosmos beyond, the Antikythera Mechanism stands as a reminder: the past is not what it seems, and the truth is rarely what we’re told. Keep digging, keep questioning, and maybe one day we’ll unlock the secrets of this ancient enigma."
             }
         ]
+    },
+    {
+        title: "The Algorithm Knows You Better Than You Know Yourself",
+        description: "How social media platforms weaponize psychology, manipulate behavior, and reshape reality through invisible digital puppet strings.",
+        slug: "algorithm-mind-control",
+        date: "August 31, 2025",
+        imageUrl: "https://www.shutterstock.com/image-vector/silhouette-human-head-created-pixel-600nw-2462443409.jpg",
+        content: [
+            {
+                type: "heading",
+                content: "The Invisible Puppeteer"
+            },
+            {
+                type: "paragraph",
+                content: "Every scroll, every like, every pause — they're all being tracked, analyzed, and weaponized against you. Social media algorithms don't just show you content; they reshape your thoughts, influence your decisions, and predict your behavior better than you can. The most sophisticated psychological manipulation system in human history isn't in a government lab — it's in your pocket."
+            },
+            {
+                type: "quote",
+                content: "If you're not paying for the product, you ARE the product."
+            },
+            {
+                type: "paragraph",
+                content: "Tech giants employ teams of neuroscientists, behavioral economists, and addiction specialists to engineer platforms that hijack your brain's reward systems. They know when you're vulnerable, what triggers your emotions, and exactly how to keep you hooked. This isn't accidental — it's weaponized psychology masquerading as entertainment."
+            },
+            {
+                type: "image",
+                content: "https://images.newscientist.com/wp-content/uploads/2021/06/07105747/07-june_human-connectome.jpg",
+                alt: "Brain scan overlaid with social media network patterns"
+            },
+            {
+                type: "heading",
+                content: "The Dopamine Factory"
+            },
+            {
+                type: "paragraph",
+                content: "Your brain treats social media notifications like slot machine jackpots — unpredictable rewards that trigger massive dopamine releases. Tech companies hire former casino designers to optimize 'time on platform' using the same psychological tricks that create gambling addicts. Red notification badges, infinite scroll feeds, and variable reward schedules all exploit evolutionary weaknesses in human psychology."
+            },
+            {
+                type: "paragraph",
+                content: "Internal Facebook documents leaked by whistleblowers reveal the company knew its platform causes depression and anxiety, particularly in teenagers, but continued optimizing for engagement anyway. When profit conflicts with public health, guess which wins?"
+            },
+            {
+                type: "image",
+                content: "https://thumbs.dreamstime.com/b/artistic-high-energy-stock-photo-smartphone-slot-machine-like-interface-casino-gaming-environment-ai-generated-369528195.jpg",
+                alt: "Slot machine merged with smartphone interface"
+            },
+            {
+                type: "heading",
+                content: "Reality Manipulation at Scale"
+            },
+            {
+                type: "paragraph",
+                content: "Algorithms don't just reflect your interests — they shape them. Show someone enough flat Earth content and they'll start questioning the globe. Feed them political extremism and they'll radicalize. The 'filter bubble' effect creates separate realities where people live in completely different information ecosystems, unable to agree on basic facts."
+            },
+            {
+                type: "quote",
+                content: "We don't see the world as it is — we see it as the algorithm wants us to."
+            },
+            {
+                type: "paragraph",
+                content: "Cambridge Analytica was just the tip of the iceberg. Micro-targeting technology can identify your personality type, political leanings, and emotional triggers from your digital footprint, then serve customized propaganda designed to manipulate your behavior. Democracy becomes a joke when elections are decided by who has the better algorithm."
+            },
+            {
+                type: "heading",
+                content: "The Surveillance Capitalism Machine"
+            },
+            {
+                type: "paragraph",
+                content: "Your data isn't just collected — it's weaponized. Location tracking reveals your routines, social graphs map your relationships, and browsing history exposes your deepest insecurities. This information is sold to corporations, shared with governments, and used to predict and influence your future choices."
+            },
+            {
+                type: "paragraph",
+                content: "The most chilling part? Most people willingly participate, trading privacy for convenience without understanding the true cost. We've sleepwalked into a digital panopticon where every action is monitored, every preference catalogued, and every thought potentially monetized."
+            },
+            {
+                type: "image",
+                content: "https://www.eff.org/files/banner_library/third_party_tracking_banner.png",
+                alt: "Multiple surveillance cameras watching over digital data streams"
+            },
+            {
+                type: "heading",
+                content: "Breaking Free from the Matrix"
+            },
+            {
+                type: "paragraph",
+                content: "The first step to freedom is recognizing the cage. Turn off notifications. Use ad blockers. Delete apps that serve no real purpose. Question why you're seeing specific content and who benefits from your attention. The algorithm's power comes from operating in darkness — shine a light on it and its influence weakens."
+            },
+            {
+                type: "paragraph",
+                content: "Diversify your information sources. Read books. Talk to people offline. Engage with ideas that challenge your existing beliefs rather than confirming them. The algorithm wants you isolated, angry, and addicted — choosing connection, curiosity, and critical thinking is the ultimate rebellion."
+            },
+            {
+                type: "quote",
+                content: "The mind that questions everything is the mind that can't be controlled."
+            },
+            {
+                type: "paragraph",
+                content: "Your attention is the battlefield, and the war for your mind is happening right now. The question isn't whether you're being manipulated — it's whether you're going to do something about it. Question everything, especially the voices telling you not to question at all."
+            }
+        ]
     }
 ];
