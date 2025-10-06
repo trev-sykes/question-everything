@@ -1409,7 +1409,7 @@ export const blogData: BlogEntry[] = [
                 "content": "\"They wanted to see how people would react to something that big in plain sight. It was a psychological experiment.\" — Anonymous Air Force technician"
             },
             {
-                "type": "image", content: "",
+                "type": "image", content: "https://res.cloudinary.com/aenetworks/image/upload/c_fill,w_1920,h_1254,g_auto/dpr_auto/f_auto/q_auto:eco/v1/gettyimages-1180943348?_a=BAVAZGID0",
                 "alt": "Classified military hangar with a triangular craft"
             },
             {
