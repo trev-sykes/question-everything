@@ -65,7 +65,7 @@ export const Footer = () => {
                 <a href="https://www.linkedin.com/in/trevsykes/" target="_blank" rel="noopener noreferrer">
                     <Linkedin size={20} />
                 </a>
-                <a href="https://404devnotfound.vercel.app/" target="_blank" rel="noopener noreferrer">
+                <a href="https://trevs-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
                     <img className={styles.portfolioLink} src={portfolioLink} alt="portfolio link" />
                 </a>
             </div>
