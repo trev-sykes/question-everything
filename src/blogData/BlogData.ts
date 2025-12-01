@@ -1558,6 +1558,114 @@ export const blogData: BlogEntry[] = [
                 "content": "Until more evidence surfaces, the Black Pyramid of Alaska remains an enigma — one that sits at the crossroads of science, myth, and secrecy. Whether ancient power plant or alien artifact, its story is a chilling reminder that the world still hides wonders we’re not meant to find."
             }
         ]
+    },
+    {
+        "title": "MK-Ultra: The CIA’s Secret Quest for Mind Control",
+        "description": "A deep dive into America’s most infamous mind-control program — covert experiments, erased evidence, and the secrets that still echo today.",
+        "slug": "mk-ultra-mind-control",
+        "date": "November 30, 2025",
+        "imageUrl": "https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2017/06/GettyImages-119075305-v2.jpg",
+        "content": [
+            {
+                "type": "heading",
+                "content": "A Program Born in Cold War Fear"
+            },
+            {
+                "type": "paragraph",
+                "content": "In the early 1950s, the CIA launched MK-Ultra, a classified program designed to explore mind control and psychological manipulation. Fueled by fears that foreign adversaries were developing similar techniques, the project grew into a sprawling network of secret experiments conducted in hospitals, prisons, universities, and covert safe houses."
+            },
+            {
+                "type": "quote",
+                "content": "\"We were trying to find the key to the human mind before someone else did.\" — Former CIA researcher"
+            },
+            {
+                "type": "image",
+                "content": "https://cdn2.caymanchem.com/cdn/cms/caymanchem/PublishingImages/Lists/NewsItems/AllItems/lsd-and-sd-figure-1.png",
+                "alt": "Illustration of LSD chemical structure"
+            },
+            {
+                "type": "heading",
+                "content": "Behind the Experiments"
+            },
+            {
+                "type": "paragraph",
+                "content": "MK-Ultra encompassed over 150 subprojects, each exploring techniques that ranged from psychological conditioning to the use of hallucinogens. LSD became a central part of many experiments, often administered without the subject’s consent. Other tests involved sensory deprivation, hypnosis, and extreme electroshock procedures."
+            },
+            {
+                "type": "paragraph",
+                "content": "Some volunteers knew they were participating in research, but many others — including prisoners and psychiatric patients — were exposed to experiments without their knowledge or ability to refuse."
+            },
+            {
+                "type": "quote",
+                "content": "\"I woke up strapped to a table with no memory of how I got there.\" — Survivor testimony"
+            },
+            {
+                "type": "heading",
+                "content": "Operation Midnight Climax"
+            },
+            {
+                "type": "paragraph",
+                "content": "One of the most controversial subprojects was Operation Midnight Climax, where CIA-run safe houses in San Francisco and New York were used to observe unwitting civilians being dosed with LSD. Agents watched through one-way mirrors as subjects reacted, taking notes to gauge how the drug affected behavior and decision-making."
+            },
+            {
+                "type": "image",
+                "content": "https://www.cia.gov/static/7ab3506a2329f8c2ece636f6cb2603e1/cfe78/new_headquarters_building_1_lg.jpg",
+                "alt": "CIA headquarters building"
+            },
+            {
+                "type": "heading",
+                "content": "Erasing the Evidence"
+            },
+            {
+                "type": "paragraph",
+                "content": "When MK-Ultra came under scrutiny in the early 1970s, CIA Director Richard Helms ordered the destruction of most project files. Only about 20,000 documents survived due to being misfiled, leaving much of the program’s true extent unknown. This lack of documentation has fueled decades of public speculation."
+            },
+            {
+                "type": "quote",
+                "content": "\"You can't uncover what no longer officially exists.\" — Former intelligence officer"
+            },
+            {
+                "type": "heading",
+                "content": "The Death of Frank Olson"
+            },
+            {
+                "type": "paragraph",
+                "content": "Perhaps the most tragic case connected to MK-Ultra is the death of Frank Olson, a government scientist who reportedly became distraught after being unknowingly given LSD. He fell from a New York hotel window shortly after. The official story was suicide, but many believe he was silenced after expressing doubts about the program."
+            },
+            {
+                "type": "heading",
+                "content": "Public Exposure and Fallout"
+            },
+            {
+                "type": "paragraph",
+                "content": "MK-Ultra was publicly revealed during the 1975 Church Committee hearings, causing widespread outrage. The fallout led to new restrictions on intelligence agencies and reforms in how human research must be conducted. Still, the program remains a powerful example of how secrecy can enable government overreach."
+            },
+            {
+                "type": "heading",
+                "content": "A Legacy That Lingers"
+            },
+            {
+                "type": "paragraph",
+                "content": "Officially, MK-Ultra ended in the early 1970s. Unofficially, some believe its research influenced later psychological interrogation programs and modern intelligence tactics. With so many documents destroyed, questions linger: How far did the program really go? And are there successors hidden behind new names?"
+            },
+            {
+                "type": "quote",
+                "content": "\"Mind control didn’t vanish — it evolved.\" — Anonymous intelligence contractor"
+            },
+            {
+                "type": "heading",
+                "content": "The Unanswered Questions"
+            },
+            {
+                "type": "paragraph",
+                "content": "Decades later, MK-Ultra remains one of the most disturbing and mysterious government programs ever exposed. It sits at the crossroads of paranoia, ethics, science, and secrecy — a reminder of the thin line between national security and human rights."
+            },
+            {
+                "type": "paragraph",
+                "content": "The truth we know is unsettling. The truth we don’t may be far more troubling."
+            }
+        ]
     }
+
 
 ];
